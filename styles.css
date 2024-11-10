@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+
+.subbu{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(92, 207, 161);
+}
+
+.satish{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(138, 107, 50);
+}
